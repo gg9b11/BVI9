@@ -1,0 +1,27 @@
+body {
+	background-color: #aee8f5 ;
+	font-family: Tahoma;
+}	
+.card { 
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #dcf1fa;
+	box-shadow: -5px 5px 8px 2px #333333;
+	border-radius: 10px;
+	padding: 50px;
+}
+.card-list {
+	text-align: center;
+	font-size: 25px;
+}
+.card-text {
+	font-size: 20px;
+}
+.card-name {
+	font-size: 45px;
+}
+.card-photo {
+	display: block;
+	width: 500px;
+	margin: 0 auto;
+}
